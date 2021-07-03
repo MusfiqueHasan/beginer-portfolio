@@ -42,3 +42,7 @@ section{
     background-repeat: no-repeat;
     background-position: center right ;
 }
+.para-2{
+    width: 80%;
+   text-align: justify;
+}
