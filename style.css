@@ -15,6 +15,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 130px;
 }
 .half-width{
     width: 50%;
@@ -29,9 +30,15 @@ section{
     border-radius: 5px;
     color: #fff;
     font-weight: bold;
+    text-transform: uppercase;
     background-image: linear-gradient(orange, tomato);
 }
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: center right ;
 }
