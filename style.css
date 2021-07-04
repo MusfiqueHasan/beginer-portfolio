@@ -47,4 +47,20 @@ h1{
     width: 80%;
    text-align: justify;
 }
-
+.experiences-item{
+    width: 40%;
+    height: 50vh;
+    margin: 0px 5%;
+    text-align: justify;
+    border-radius: 5px;
+    padding: 25px;
+    box-shadow: 10px 10px 40px gray;
+}
+.experiences-item h2{
+    font-size: 35px;
+}
+.experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:  left ;
+}
