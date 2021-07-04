@@ -13,9 +13,9 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
-    margin-bottom: 130px;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -23,6 +23,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    margin-top: 20px;
 }
 .link-button{
     text-decoration: none;
@@ -46,3 +47,4 @@ section{
     width: 80%;
    text-align: justify;
 }
+
